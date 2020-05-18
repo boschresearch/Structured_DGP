@@ -1,3 +1,3 @@
-# Structured_DGP
+# Structured DGP
 
 Coming soon.
