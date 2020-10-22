@@ -15,6 +15,9 @@ This software is a research prototype, solely developed for and published as
 part of the publication cited above. It will neither be
 maintained nor monitored in any way.
 
+_To further increase the reproducibility of our paper, we will add the scripts for the experiments in the near future._
+
+
 ## Requirements
 
 The Structured-DGP core code requires gpflow, tensorflow, tensorflow_probability, numpy, and scipy.
