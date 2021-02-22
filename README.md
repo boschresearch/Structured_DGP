@@ -5,6 +5,10 @@ reported in the paper [Beyond the Mean-Field: Structured Deep Gaussian Processes
 The code allows the users to experiment with the proposed DGP inference method.
 Please cite the above paper when reporting, reproducing or extending the results.
 
+<p align="center">
+  <img src="img/thumbnail_landscape.png" width="350">
+</p>
+
 ## Purpose of the project
 
 This software is a research prototype, solely developed for and published as
